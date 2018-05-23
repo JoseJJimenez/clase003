@@ -6,6 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("Test git");
 	    
-	    /vamos a poner un comentario ejemplo
+	    //vamos a poner un comentario ejemplo
     }
 }
